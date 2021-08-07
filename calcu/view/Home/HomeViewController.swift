@@ -9,14 +9,13 @@ import UIKit
 
 final class HomeViewController: UIViewController {
     
-    //MARK: Initialization
-    init(<#parameters#>) {
-        <#statements#>
-    }
+
     //MARK: Life Cycle
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print("hola mama")
 
     }
 
